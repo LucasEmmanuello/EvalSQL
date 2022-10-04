@@ -1,4 +1,1 @@
-# testGit
-be aware of the link
-never approach it
-never touch it
+the link is a lie
